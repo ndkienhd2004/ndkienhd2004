@@ -52,6 +52,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ndkienhd2004&theme=default)](https://git.io/streak-stats)
 
----
 
-![Profile views](https://komarev.com/ghpvc/?username=ndkienhd2004&label=Profile%20views&color=blue&style=flat)
